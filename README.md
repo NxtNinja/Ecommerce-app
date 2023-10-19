@@ -1,5 +1,5 @@
 
-# My Flutter Project for Internship
+# My Flutter Project
 
 This Flutter project showcases products categorized by type using data from the Platzi fake store API. Users can explore and view product details.
 
